@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+yubaba-venv/
+old/
+used_names.txt
+.env
+*.pem
+*.key
